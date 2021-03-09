@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+
+.container{
+
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://i.pinimg.com/originals/fc/5f/09/fc5f09267bd559680cf700aa4c5a6182.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 5%;
+    padding-right: 5%;
+   box-sizing: border-box;
+   position: relative;
+    background-repeat: repeat;
+}
+.navbar{
+    width: 100px;
+    height: 15vh;
+    margin: auto;
+    display: flex;
+    align-items: center;
+
+}
+.logo{
+    width: 160px;
+    cursor: pointer;
+
+
+
+}
+.content h1{
+    font-size: 50px;
+    font-weight: 100;
+    margin-top: 24px;
+    margin-bottom: 15px;
+    color: #dbd8d2;
+
+}
+.content p{
+    font-size: 20px;
+    color: #e6dcc8;
+
+}
+.content{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.content .btn{
+    display: inline-block;
+    background-color: #8e968f;
+  
+    border-radius: 6px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #fff;
+    box-shadow: 3px 8px 22px rgba(94,28,68,0.15); 
+}
+.arrow-icons{
+    margin-top: 40px;
+    display: flex;
+
+}
+.arrow-icons img{
+    width: 40px;
+    margin-right: 25px;
+}
+.feature-img{
+    height: 90%;
+    position: absolute;
+    bottom: 0;
+    right: 160px;
+}
+.HAYAT{
+   width: 80%;
+   height: 330px;
+   background-color: #8e968f;
+   border-radius: 20px;
+   box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+   display: flex;
+   margin:-7% auto 200px auto;
+   position: relative;
+   
+  
+}
+.hhh img{
+    height: 250px;
+}
+.hhh{
+    width: 550%;
+}
+.hhh h1{
+    color: #000;
+    font-family: myriad pro;
+    font-weight: bold;
+    font-size: 23px;
+    line-height: 0px;
+}
+.hhh p:nth-child(2){
+    color: #000;
+    font-size: 13px;
+    font-family: myriad pro;
+    font-weight: bold;
+    line-height: 5px;
+}
+.b{
+   
+    width: 80%;
+    height: 330px;
+    background-color: #8e968f;
+    border-radius: 20px;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+    display: flex;
+    margin:-7% auto 200px auto;
+    position: relative;
+}
+.c{
+    width: 80%;
+    height: 330px;
+    background-color: #8e968f;
+    border-radius: 20px;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+    display: flex;
+    margin:-7% auto 200px auto;
+    position: relative;
+}
